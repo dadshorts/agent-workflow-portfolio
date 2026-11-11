@@ -1,0 +1,1 @@
+SYNTHETIC DEMO INPUT. A fictional equipment-checkout app has 120 items and three staff users. Staff need a weekly overdue-items report. There are two development days available. Choose between a simple CSV export and a reporting dashboard; identify one next action.

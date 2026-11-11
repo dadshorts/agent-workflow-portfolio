@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+megazord-runs/
+demo-runs/
+.test-tmp/
+.megazord.lock/
+/problem.txt
+*.log
+*.zip
